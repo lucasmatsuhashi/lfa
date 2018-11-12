@@ -1,0 +1,7 @@
+ABA ACA ADA AB AC AD A /
+a b c d
+(/,a,A) (A, b, AB) (AB, a, ABA) (A,c,AC) (AC, a, ACA)  (A,d,AD) (AD, a, ADA)
+/
+ABA ACA ADA
+
+ada
